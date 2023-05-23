@@ -1,0 +1,9 @@
+pandas
+numpy
+librosa
+Scikit-learn
+streamlit
+matplotlib
+pillow
+audio-recorder-streamlit
+wave
